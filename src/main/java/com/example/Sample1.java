@@ -1,3 +1,4 @@
+package com.example;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
@@ -10,7 +11,9 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * Created by qiuzhanghua on 2017/2/7.
+ * 
+ * @author seon
+ *
  */
 public class Sample1 {
   public static void main(String[] args) throws IOException {
